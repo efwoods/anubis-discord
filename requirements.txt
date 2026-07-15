@@ -1,0 +1,8 @@
+discord.js 
+libsodium-wrappers 
+ffmpeg-static 
+@discordjs/opus 
+@discordjs/voice 
+dotenv 
+elevenlabs-node 
+openai
